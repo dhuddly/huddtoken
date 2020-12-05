@@ -1,8 +1,8 @@
 {
   "name": "huddtoken",
   "version": "0.1.0",
-  "description": "DEX with Auto Balance",
-  "author": "dev@HUDDuniversity.com",
+  "description": "Ethereum Exchange",
+  "author": "hudd@huddcoin.com",
   "private": true,
   "homepage": ".",
   "engines": {

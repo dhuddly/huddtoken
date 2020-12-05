@@ -1,0 +1,33 @@
+/* This is how you comment css */
+/* This css will apply to the body element */
+body {
+    background-image: url('./images/moonocean.jpg');
+}
+
+
+/* This css will apply to the header HTML5 element*/
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  color: white;
+  margin: 10px;
+  padding:10px;
+}
+
+/* All paragraph will be justified */
+p {
+  text-align: justify;
+}
+
+/* Classes are represented with a . in front of the name */
+.title{
+  color:#d6dae2;
+}
+
+
+/* Element id are represented with a # in front of the name */
+#my-h2-id{
+    text-decoration: underline;
+}
